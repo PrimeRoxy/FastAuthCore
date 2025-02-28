@@ -50,8 +50,8 @@ This microservice enables organizations to manage user authentication and author
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/PrimeRoxy/FastAuthCore.git
+   cd FastAuthCore
    ```
 
 2. **Create and Activate a Virtual Environment:**
