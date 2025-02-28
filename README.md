@@ -2,7 +2,8 @@
 
 This repository contains a FastAPI-based authentication and authorization microservice designed to serve multiple web and mobile applications from a centralized system. It provides a scalable solution for user authentication, authorization control, and role-based access management.
 
-This microservice ensures that all applications within the ecosystem, whether web or mobile, have seamless access to authentication and authorization functions from a single source. It offers endpoints for :
+This microservice ensures that all applications within the ecosystem, whether web or mobile, have seamless access to authentication and authorization functions from a single source.It utilizes a **custom UUID system** that works as an **ObjectID** to establish seamless data connectivity across users in **MongoDB**, ensuring efficient and scalable user data management.
+ It offers endpoints for :
 
 - **User Management:**  
   - Sign up, sign in, and update user details  
